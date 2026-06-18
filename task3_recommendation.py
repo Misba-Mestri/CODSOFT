@@ -1,6 +1,6 @@
 """
 ╔══════════════════════════════════════════════════════════════╗
-║         CODSOFT AI INTERNSHIP — TASK 4                       ║
+║         CODSOFT AI INTERNSHIP — TASK 3                       ║
 ║         Movie Recommendation System                          ║
 ║         (Collaborative + Content-Based Filtering)            ║
 ║         Author: Your Name | CodSoft AI Intern               ║
