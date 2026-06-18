@@ -215,7 +215,7 @@ def interactive_menu():
     while True:
         print("\n┌─────────────────────────────────────┐")
         print("│     🎥 Movie Recommender System     │")
-        print("│     CodSoft AI Internship Task 4    │")
+        print("│     CodSoft AI Internship Task 3    │")
         print("├─────────────────────────────────────┤")
         print("│  1. Content-Based Recommendations   │")
         print("│  2. Collaborative Recommendations   │")
@@ -255,7 +255,7 @@ def interactive_menu():
 # ─────────────────────────────────────────────
 def main():
     print("=" * 55)
-    print("   🎬 Movie Recommendation System — Task 4")
+    print("   🎬 Movie Recommendation System — Task 3")
     print("=" * 55)
 
     # Quick demo
